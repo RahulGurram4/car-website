@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: carwebsite-container
-        image: rahulgurram4/car-website:v1
+        image: gurramrahul/car-website:v1
         imagePullPolicy: Always
         ports:
         - containerPort: 80
